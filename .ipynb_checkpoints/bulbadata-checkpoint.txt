@@ -1,0 +1,790 @@
+JDex: #001, NDex: #152  Chikorita is a Grass Pokemon
+JDex: #002, NDex: #153  Bayleef is a Grass Pokemon
+JDex: #003, NDex: #154  Meganium is a Grass Pokemon
+JDex: #004, NDex: #155  Cyndaquil is a Fire Pokemon
+JDex: #005, NDex: #156  Quilava is a Fire Pokemon
+JDex: #006, NDex: #157  Typhlosion is a Fire Pokemon
+JDex: #007, NDex: #158  Totodile is a Water Pokemon
+JDex: #008, NDex: #159  Croconaw is a Water Pokemon
+JDex: #009, NDex: #160  Feraligatr is a Water Pokemon
+JDex: #019, NDex: #161  Sentret is a Normal Pokemon
+JDex: #020, NDex: #162  Furret is a Normal Pokemon
+JDex: #015, NDex: #163  Hoothoot is a Normal & Flying Pokemon
+JDex: #016, NDex: #164  Noctowl is a Normal & Flying Pokemon
+JDex: #030, NDex: #165  Ledyba is a Bug & Flying Pokemon
+JDex: #031, NDex: #166  Ledian is a Bug & Flying Pokemon
+JDex: #032, NDex: #167  Spinarak is a Bug & Poison Pokemon
+JDex: #033, NDex: #168  Ariados is a Bug & Poison Pokemon
+JDex: #039, NDex: #169  Crobat is a Poison & Flying Pokemon
+JDex: #176, NDex: #170  Chinchou is a Water & Electric Pokemon
+JDex: #177, NDex: #171  Lanturn is a Water & Electric Pokemon
+JDex: #021, NDex: #172  Pichu is a Electric Pokemon
+JDex: #040, NDex: #173  Cleffa is a Fairy Pokemon
+JDex: #044, NDex: #174  Igglybuff is a Normal & Fairy Pokemon
+JDex: #046, NDex: #175  Togepi is a Fairy Pokemon
+JDex: #047, NDex: #176  Togetic is a Fairy & Flying Pokemon
+JDex: #161, NDex: #177  Natu is a Psychic & Flying Pokemon
+JDex: #162, NDex: #178  Xatu is a Psychic & Flying Pokemon
+JDex: #053, NDex: #179  Mareep is a Electric Pokemon
+JDex: #054, NDex: #180  Flaaffy is a Electric Pokemon
+JDex: #055, NDex: #181  Ampharos is a Electric Pokemon
+JDex: #086, NDex: #182  Bellossom is a Grass Pokemon
+JDex: #132, NDex: #183  Marill is a Water & Fairy Pokemon
+JDex: #133, NDex: #184  Azumarill is a Water & Fairy Pokemon
+JDex: #107, NDex: #185  Sudowoodo is a Rock Pokemon
+JDex: #075, NDex: #186  Politoed is a Water Pokemon
+JDex: #067, NDex: #187  Hoppip is a Grass & Flying Pokemon
+JDex: #068, NDex: #188  Skiploom is a Grass & Flying Pokemon
+JDex: #069, NDex: #189  Jumpluff is a Grass & Flying Pokemon
+JDex: #123, NDex: #190  Aipom is a Normal Pokemon
+JDex: #103, NDex: #191  Sunkern is a Grass Pokemon
+JDex: #104, NDex: #192  Sunflora is a Grass Pokemon
+JDex: #101, NDex: #193  Yanma is a Bug & Flying Pokemon
+JDex: #056, NDex: #194  Wooper is a Water & Ground Pokemon
+JDex: #057, NDex: #195  Quagsire is a Water & Ground Pokemon
+JDex: #188, NDex: #196  Espeon is a Psychic Pokemon
+JDex: #189, NDex: #197  Umbreon is a Dark Pokemon
+JDex: #213, NDex: #198  Murkrow is a Dark & Flying Pokemon
+JDex: #082, NDex: #199  Slowking is a Water & Psychic Pokemon
+JDex: , NDex: #199  Slowking is a Poison & Psychic Pokemon
+JDex: #219, NDex: #200  Misdreavus is a Ghost Pokemon
+JDex: #061, NDex: #201  Unown is a Psychic Pokemon
+JDex: #108, NDex: #202  Wobbuffet is a Psychic Pokemon
+JDex: #149, NDex: #203  Girafarig is a Normal & Psychic Pokemon
+JDex: #093, NDex: #204  Pineco is a Bug Pokemon
+JDex: #094, NDex: #205  Forretress is a Bug & Steel Pokemon
+JDex: #052, NDex: #206  Dunsparce is a Normal Pokemon
+JDex: #193, NDex: #207  Gligar is a Ground & Flying Pokemon
+JDex: #063, NDex: #208  Steelix is a Steel & Ground Pokemon
+JDex: #125, NDex: #209  Snubbull is a Fairy Pokemon
+JDex: #126, NDex: #210  Granbull is a Fairy Pokemon
+JDex: #163, NDex: #211  Qwilfish is a Water & Poison Pokemon
+JDex: #112, NDex: #212  Scizor is a Bug & Steel Pokemon
+JDex: #168, NDex: #213  Shuckle is a Bug & Rock Pokemon
+JDex: #114, NDex: #214  Heracross is a Bug & Fighting Pokemon
+JDex: #218, NDex: #215  Sneasel is a Dark & Ice Pokemon
+JDex: #198, NDex: #216  Teddiursa is a Normal Pokemon
+JDex: #199, NDex: #217  Ursaring is a Normal Pokemon
+JDex: #216, NDex: #218  Slugma is a Fire Pokemon
+JDex: #217, NDex: #219  Magcargo is a Fire & Rock Pokemon
+JDex: #195, NDex: #220  Swinub is a Ice & Ground Pokemon
+JDex: #196, NDex: #221  Piloswine is a Ice & Ground Pokemon
+JDex: #173, NDex: #222  Corsola is a Water & Rock Pokemon
+JDex: , NDex: #222  Corsola is a Ghost Pokemon
+JDex: #174, NDex: #223  Remoraid is a Water Pokemon
+JDex: #175, NDex: #224  Octillery is a Water Pokemon
+JDex: #194, NDex: #225  Delibird is a Ice & Flying Pokemon
+JDex: #202, NDex: #226  Mantine is a Water & Flying Pokemon
+JDex: #203, NDex: #227  Skarmory is a Steel & Flying Pokemon
+JDex: #214, NDex: #228  Houndour is a Dark & Fire Pokemon
+JDex: #215, NDex: #229  Houndoom is a Dark & Fire Pokemon
+JDex: #192, NDex: #230  Kingdra is a Water & Dragon Pokemon
+JDex: #200, NDex: #231  Phanpy is a Ground Pokemon
+JDex: #201, NDex: #232  Donphan is a Ground Pokemon
+JDex: #221, NDex: #233  Porygon2 is a Normal Pokemon
+JDex: #131, NDex: #234  Stantler is a Normal Pokemon
+JDex: #159, NDex: #235  Smeargle is a Normal Pokemon
+JDex: #145, NDex: #236  Tyrogue is a Fighting Pokemon
+JDex: #148, NDex: #237  Hitmontop is a Fighting Pokemon
+JDex: #154, NDex: #238  Smoochum is a Ice & Psychic Pokemon
+JDex: #156, NDex: #239  Elekid is a Electric Pokemon
+JDex: #152, NDex: #240  Magby is a Fire Pokemon
+JDex: #151, NDex: #241  Miltank is a Normal Pokemon
+JDex: #223, NDex: #242  Blissey is a Normal Pokemon
+JDex: #243, NDex: #243  Raikou is a Electric Pokemon
+JDex: #244, NDex: #244  Entei is a Fire Pokemon
+JDex: #245, NDex: #245  Suicune is a Water Pokemon
+JDex: #249, NDex: #246  Larvitar is a Rock & Ground Pokemon
+JDex: #250, NDex: #247  Pupitar is a Rock & Ground Pokemon
+JDex: #251, NDex: #248  Tyranitar is a Rock & Dark Pokemon
+JDex: #252, NDex: #249  Lugia is a Psychic & Flying Pokemon
+JDex: #253, NDex: #250  Ho-Oh is a Fire & Flying Pokemon
+JDex: #256, NDex: #251  Celebi is a Psychic & Grass Pokemon
+HDex: #001, NDex: #252  Treecko is a Grass Pokemon
+HDex: #002, NDex: #253  Grovyle is a Grass Pokemon
+HDex: #003, NDex: #254  Sceptile is a Grass Pokemon
+HDex: #004, NDex: #255  Torchic is a Fire Pokemon
+HDex: #005, NDex: #256  Combusken is a Fire & Fighting Pokemon
+HDex: #006, NDex: #257  Blaziken is a Fire & Fighting Pokemon
+HDex: #007, NDex: #258  Mudkip is a Water Pokemon
+HDex: #008, NDex: #259  Marshtomp is a Water & Ground Pokemon
+HDex: #009, NDex: #260  Swampert is a Water & Ground Pokemon
+HDex: #010, NDex: #261  Poochyena is a Dark Pokemon
+HDex: #011, NDex: #262  Mightyena is a Dark Pokemon
+HDex: #012, NDex: #263  Zigzagoon is a Normal Pokemon
+HDex: , NDex: #263  Zigzagoon is a Dark & Normal Pokemon
+HDex: #013, NDex: #264  Linoone is a Normal Pokemon
+HDex: , NDex: #264  Linoone is a Dark & Normal Pokemon
+HDex: #014, NDex: #265  Wurmple is a Bug Pokemon
+HDex: #015, NDex: #266  Silcoon is a Bug Pokemon
+HDex: #016, NDex: #267  Beautifly is a Bug & Flying Pokemon
+HDex: #017, NDex: #268  Cascoon is a Bug Pokemon
+HDex: #018, NDex: #269  Dustox is a Bug & Poison Pokemon
+HDex: #019, NDex: #270  Lotad is a Water & Grass Pokemon
+HDex: #020, NDex: #271  Lombre is a Water & Grass Pokemon
+HDex: #021, NDex: #272  Ludicolo is a Water & Grass Pokemon
+HDex: #022, NDex: #273  Seedot is a Grass Pokemon
+HDex: #023, NDex: #274  Nuzleaf is a Grass & Dark Pokemon
+HDex: #024, NDex: #275  Shiftry is a Grass & Dark Pokemon
+HDex: #025, NDex: #276  Taillow is a Normal & Flying Pokemon
+HDex: #026, NDex: #277  Swellow is a Normal & Flying Pokemon
+HDex: #027, NDex: #278  Wingull is a Water & Flying Pokemon
+HDex: #028, NDex: #279  Pelipper is a Water & Flying Pokemon
+HDex: #029, NDex: #280  Ralts is a Psychic & Fairy Pokemon
+HDex: #030, NDex: #281  Kirlia is a Psychic & Fairy Pokemon
+HDex: #031, NDex: #282  Gardevoir is a Psychic & Fairy Pokemon
+HDex: #032, NDex: #283  Surskit is a Bug & Water Pokemon
+HDex: #033, NDex: #284  Masquerain is a Bug & Flying Pokemon
+HDex: #034, NDex: #285  Shroomish is a Grass Pokemon
+HDex: #035, NDex: #286  Breloom is a Grass & Fighting Pokemon
+HDex: #036, NDex: #287  Slakoth is a Normal Pokemon
+HDex: #037, NDex: #288  Vigoroth is a Normal Pokemon
+HDex: #038, NDex: #289  Slaking is a Normal Pokemon
+HDex: #042, NDex: #290  Nincada is a Bug & Ground Pokemon
+HDex: #043, NDex: #291  Ninjask is a Bug & Flying Pokemon
+HDex: #044, NDex: #292  Shedinja is a Bug & Ghost Pokemon
+HDex: #045, NDex: #293  Whismur is a Normal Pokemon
+HDex: #046, NDex: #294  Loudred is a Normal Pokemon
+HDex: #047, NDex: #295  Exploud is a Normal Pokemon
+HDex: #048, NDex: #296  Makuhita is a Fighting Pokemon
+HDex: #049, NDex: #297  Hariyama is a Fighting Pokemon
+HDex: #054, NDex: #298  Azurill is a Normal & Fairy Pokemon
+HDex: #060, NDex: #299  Nosepass is a Rock Pokemon
+HDex: #061, NDex: #300  Skitty is a Normal Pokemon
+HDex: #062, NDex: #301  Delcatty is a Normal Pokemon
+HDex: #068, NDex: #302  Sableye is a Dark & Ghost Pokemon
+HDex: #069, NDex: #303  Mawile is a Steel & Fairy Pokemon
+HDex: #070, NDex: #304  Aron is a Steel & Rock Pokemon
+HDex: #071, NDex: #305  Lairon is a Steel & Rock Pokemon
+HDex: #072, NDex: #306  Aggron is a Steel & Rock Pokemon
+HDex: #076, NDex: #307  Meditite is a Fighting & Psychic Pokemon
+HDex: #077, NDex: #308  Medicham is a Fighting & Psychic Pokemon
+HDex: #078, NDex: #309  Electrike is a Electric Pokemon
+HDex: #079, NDex: #310  Manectric is a Electric Pokemon
+HDex: #080, NDex: #311  Plusle is a Electric Pokemon
+HDex: #081, NDex: #312  Minun is a Electric Pokemon
+HDex: #086, NDex: #313  Volbeat is a Bug Pokemon
+HDex: #087, NDex: #314  Illumise is a Bug Pokemon
+HDex: #094, NDex: #315  Roselia is a Grass & Poison Pokemon
+HDex: #095, NDex: #316  Gulpin is a Poison Pokemon
+HDex: #096, NDex: #317  Swalot is a Poison Pokemon
+HDex: #097, NDex: #318  Carvanha is a Water & Dark Pokemon
+HDex: #098, NDex: #319  Sharpedo is a Water & Dark Pokemon
+HDex: #099, NDex: #320  Wailmer is a Water Pokemon
+HDex: #100, NDex: #321  Wailord is a Water Pokemon
+HDex: #101, NDex: #322  Numel is a Fire & Ground Pokemon
+HDex: #102, NDex: #323  Camerupt is a Fire & Ground Pokemon
+HDex: #105, NDex: #324  Torkoal is a Fire Pokemon
+HDex: #110, NDex: #325  Spoink is a Psychic Pokemon
+HDex: #111, NDex: #326  Grumpig is a Psychic Pokemon
+HDex: #114, NDex: #327  Spinda is a Normal Pokemon
+HDex: #116, NDex: #328  Trapinch is a Ground Pokemon
+HDex: #117, NDex: #329  Vibrava is a Ground & Dragon Pokemon
+HDex: #118, NDex: #330  Flygon is a Ground & Dragon Pokemon
+HDex: #119, NDex: #331  Cacnea is a Grass Pokemon
+HDex: #120, NDex: #332  Cacturne is a Grass & Dark Pokemon
+HDex: #121, NDex: #333  Swablu is a Normal & Flying Pokemon
+HDex: #122, NDex: #334  Altaria is a Dragon & Flying Pokemon
+HDex: #123, NDex: #335  Zangoose is a Normal Pokemon
+HDex: #124, NDex: #336  Seviper is a Poison Pokemon
+HDex: #125, NDex: #337  Lunatone is a Rock & Psychic Pokemon
+HDex: #126, NDex: #338  Solrock is a Rock & Psychic Pokemon
+HDex: #127, NDex: #339  Barboach is a Water & Ground Pokemon
+HDex: #128, NDex: #340  Whiscash is a Water & Ground Pokemon
+HDex: #129, NDex: #341  Corphish is a Water Pokemon
+HDex: #130, NDex: #342  Crawdaunt is a Water & Dark Pokemon
+HDex: #131, NDex: #343  Baltoy is a Ground & Psychic Pokemon
+HDex: #132, NDex: #344  Claydol is a Ground & Psychic Pokemon
+HDex: #133, NDex: #345  Lileep is a Rock & Grass Pokemon
+HDex: #134, NDex: #346  Cradily is a Rock & Grass Pokemon
+HDex: #135, NDex: #347  Anorith is a Rock & Bug Pokemon
+HDex: #136, NDex: #348  Armaldo is a Rock & Bug Pokemon
+HDex: #140, NDex: #349  Feebas is a Water Pokemon
+HDex: #141, NDex: #350  Milotic is a Water Pokemon
+HDex: #142, NDex: #351  Castform is a Normal Pokemon
+HDex: #142, NDex: #351  Castform is a Fire Pokemon
+HDex: #142, NDex: #351  Castform is a Water Pokemon
+HDex: #142, NDex: #351  Castform is a Ice Pokemon
+HDex: #145, NDex: #352  Kecleon is a Normal Pokemon
+HDex: #146, NDex: #353  Shuppet is a Ghost Pokemon
+HDex: #147, NDex: #354  Banette is a Ghost Pokemon
+HDex: #148, NDex: #355  Duskull is a Ghost Pokemon
+HDex: #149, NDex: #356  Dusclops is a Ghost Pokemon
+HDex: #150, NDex: #357  Tropius is a Grass & Flying Pokemon
+HDex: #151, NDex: #358  Chimecho is a Psychic Pokemon
+HDex: #152, NDex: #359  Absol is a Dark Pokemon
+HDex: #160, NDex: #360  Wynaut is a Psychic Pokemon
+HDex: #171, NDex: #361  Snorunt is a Ice Pokemon
+HDex: #172, NDex: #362  Glalie is a Ice Pokemon
+HDex: #173, NDex: #363  Spheal is a Ice & Water Pokemon
+HDex: #174, NDex: #364  Sealeo is a Ice & Water Pokemon
+HDex: #175, NDex: #365  Walrein is a Ice & Water Pokemon
+HDex: #176, NDex: #366  Clamperl is a Water Pokemon
+HDex: #177, NDex: #367  Huntail is a Water Pokemon
+HDex: #178, NDex: #368  Gorebyss is a Water Pokemon
+HDex: #179, NDex: #369  Relicanth is a Water & Rock Pokemon
+HDex: #183, NDex: #370  Luvdisc is a Water Pokemon
+HDex: #187, NDex: #371  Bagon is a Dragon Pokemon
+HDex: #188, NDex: #372  Shelgon is a Dragon Pokemon
+HDex: #189, NDex: #373  Salamence is a Dragon & Flying Pokemon
+HDex: #190, NDex: #374  Beldum is a Steel & Psychic Pokemon
+HDex: #191, NDex: #375  Metang is a Steel & Psychic Pokemon
+HDex: #192, NDex: #376  Metagross is a Steel & Psychic Pokemon
+HDex: #193, NDex: #377  Regirock is a Rock Pokemon
+HDex: #194, NDex: #378  Regice is a Ice Pokemon
+HDex: #195, NDex: #379  Registeel is a Steel Pokemon
+HDex: #196, NDex: #380  Latias is a Dragon & Psychic Pokemon
+HDex: #197, NDex: #381  Latios is a Dragon & Psychic Pokemon
+HDex: #198, NDex: #382  Kyogre is a Water Pokemon
+HDex: #199, NDex: #383  Groudon is a Ground Pokemon
+HDex: #200, NDex: #384  Rayquaza is a Dragon & Flying Pokemon
+HDex: #201, NDex: #385  Jirachi is a Steel & Psychic Pokemon
+HDex: #202, NDex: #386  Deoxys is a Psychic Pokemon
+HDex: #202, NDex: #386  Deoxys is a Psychic Pokemon
+HDex: #202, NDex: #386  Deoxys is a Psychic Pokemon
+HDex: #202, NDex: #386  Deoxys is a Psychic Pokemon
+SDex: #001, NDex: #387  Turtwig is a Grass Pokemon
+SDex: #002, NDex: #388  Grotle is a Grass Pokemon
+SDex: #003, NDex: #389  Torterra is a Grass & Ground Pokemon
+SDex: #004, NDex: #390  Chimchar is a Fire Pokemon
+SDex: #005, NDex: #391  Monferno is a Fire & Fighting Pokemon
+SDex: #006, NDex: #392  Infernape is a Fire & Fighting Pokemon
+SDex: #007, NDex: #393  Piplup is a Water Pokemon
+SDex: #008, NDex: #394  Prinplup is a Water Pokemon
+SDex: #009, NDex: #395  Empoleon is a Water & Steel Pokemon
+SDex: #010, NDex: #396  Starly is a Normal & Flying Pokemon
+SDex: #011, NDex: #397  Staravia is a Normal & Flying Pokemon
+SDex: #012, NDex: #398  Staraptor is a Normal & Flying Pokemon
+SDex: #013, NDex: #399  Bidoof is a Normal Pokemon
+SDex: #014, NDex: #400  Bibarel is a Normal & Water Pokemon
+SDex: #015, NDex: #401  Kricketot is a Bug Pokemon
+SDex: #016, NDex: #402  Kricketune is a Bug Pokemon
+SDex: #017, NDex: #403  Shinx is a Electric Pokemon
+SDex: #018, NDex: #404  Luxio is a Electric Pokemon
+SDex: #019, NDex: #405  Luxray is a Electric Pokemon
+SDex: #025, NDex: #406  Budew is a Grass & Poison Pokemon
+SDex: #027, NDex: #407  Roserade is a Grass & Poison Pokemon
+SDex: #036, NDex: #408  Cranidos is a Rock Pokemon
+SDex: #037, NDex: #409  Rampardos is a Rock Pokemon
+SDex: #038, NDex: #410  Shieldon is a Rock & Steel Pokemon
+SDex: #039, NDex: #411  Bastiodon is a Rock & Steel Pokemon
+SDex: #045, NDex: #412  Burmy is a Bug Pokemon
+SDex: #045, NDex: #412  Burmy is a Bug Pokemon
+SDex: #045, NDex: #412  Burmy is a Bug Pokemon
+SDex: #046, NDex: #413  Wormadam is a Bug & Grass Pokemon
+SDex: #046, NDex: #413  Wormadam is a Bug & Ground Pokemon
+SDex: #046, NDex: #413  Wormadam is a Bug & Steel Pokemon
+SDex: #047, NDex: #414  Mothim is a Bug & Flying Pokemon
+SDex: #053, NDex: #415  Combee is a Bug & Flying Pokemon
+SDex: #054, NDex: #416  Vespiquen is a Bug & Flying Pokemon
+SDex: #055, NDex: #417  Pachirisu is a Electric Pokemon
+SDex: #056, NDex: #418  Buizel is a Water Pokemon
+SDex: #057, NDex: #419  Floatzel is a Water Pokemon
+SDex: #058, NDex: #420  Cherubi is a Grass Pokemon
+SDex: #059, NDex: #421  Cherrim is a Grass Pokemon
+SDex: #060, NDex: #422  Shellos is a Water Pokemon
+SDex: #060, NDex: #422  Shellos is a Water Pokemon
+SDex: #061, NDex: #423  Gastrodon is a Water & Ground Pokemon
+SDex: #061, NDex: #423  Gastrodon is a Water & Ground Pokemon
+SDex: #064, NDex: #424  Ambipom is a Normal Pokemon
+SDex: #065, NDex: #425  Drifloon is a Ghost & Flying Pokemon
+SDex: #066, NDex: #426  Drifblim is a Ghost & Flying Pokemon
+SDex: #067, NDex: #427  Buneary is a Normal Pokemon
+SDex: #068, NDex: #428  Lopunny is a Normal Pokemon
+SDex: #073, NDex: #429  Mismagius is a Ghost Pokemon
+SDex: #075, NDex: #430  Honchkrow is a Dark & Flying Pokemon
+SDex: #076, NDex: #431  Glameow is a Normal Pokemon
+SDex: #077, NDex: #432  Purugly is a Normal Pokemon
+SDex: #082, NDex: #433  Chingling is a Psychic Pokemon
+SDex: #084, NDex: #434  Stunky is a Poison & Dark Pokemon
+SDex: #085, NDex: #435  Skuntank is a Poison & Dark Pokemon
+SDex: #088, NDex: #436  Bronzor is a Steel & Psychic Pokemon
+SDex: #089, NDex: #437  Bronzong is a Steel & Psychic Pokemon
+SDex: #092, NDex: #438  Bonsly is a Rock Pokemon
+SDex: #094, NDex: #439  Mime Jr. is a Psychic & Fairy Pokemon
+SDex: #096, NDex: #440  Happiny is a Normal Pokemon
+SDex: #102, NDex: #441  Chatot is a Normal & Flying Pokemon
+SDex: #108, NDex: #442  Spiritomb is a Ghost & Dark Pokemon
+SDex: #109, NDex: #443  Gible is a Dragon & Ground Pokemon
+SDex: #110, NDex: #444  Gabite is a Dragon & Ground Pokemon
+SDex: #111, NDex: #445  Garchomp is a Dragon & Ground Pokemon
+SDex: #112, NDex: #446  Munchlax is a Normal Pokemon
+SDex: #115, NDex: #447  Riolu is a Fighting Pokemon
+SDex: #116, NDex: #448  Lucario is a Fighting & Steel Pokemon
+SDex: #122, NDex: #449  Hippopotas is a Ground Pokemon
+SDex: #123, NDex: #450  Hippowdon is a Ground Pokemon
+SDex: #127, NDex: #451  Skorupi is a Poison & Bug Pokemon
+SDex: #128, NDex: #452  Drapion is a Poison & Dark Pokemon
+SDex: #129, NDex: #453  Croagunk is a Poison & Fighting Pokemon
+SDex: #130, NDex: #454  Toxicroak is a Poison & Fighting Pokemon
+SDex: #131, NDex: #455  Carnivine is a Grass Pokemon
+SDex: #134, NDex: #456  Finneon is a Water Pokemon
+SDex: #135, NDex: #457  Lumineon is a Water Pokemon
+SDex: #140, NDex: #458  Mantyke is a Water & Flying Pokemon
+SDex: #142, NDex: #459  Snover is a Grass & Ice Pokemon
+SDex: #143, NDex: #460  Abomasnow is a Grass & Ice Pokemon
+SDex: #145, NDex: #461  Weavile is a Dark & Ice Pokemon
+SDex: #180, NDex: #462  Magnezone is a Electric & Steel Pokemon
+SDex: #162, NDex: #463  Lickilicky is a Normal Pokemon
+SDex: #188, NDex: #464  Rhyperior is a Ground & Rock Pokemon
+SDex: #182, NDex: #465  Tangrowth is a Grass Pokemon
+SDex: #199, NDex: #466  Electivire is a Electric Pokemon
+SDex: #202, NDex: #467  Magmortar is a Fire Pokemon
+SDex: #175, NDex: #468  Togekiss is a Fairy & Flying Pokemon
+SDex: #184, NDex: #469  Yanmega is a Bug & Flying Pokemon
+SDex: #169, NDex: #470  Leafeon is a Grass Pokemon
+SDex: #170, NDex: #471  Glaceon is a Ice Pokemon
+SDex: #154, NDex: #472  Gliscor is a Ground & Flying Pokemon
+SDex: #205, NDex: #473  Mamoswine is a Ice & Ground Pokemon
+SDex: #194, NDex: #474  Porygon-Z is a Normal Pokemon
+SDex: #160, NDex: #475  Gallade is a Psychic & Fighting Pokemon
+SDex: #156, NDex: #476  Probopass is a Rock & Steel Pokemon
+SDex: #191, NDex: #477  Dusknoir is a Ghost Pokemon
+SDex: #208, NDex: #478  Froslass is a Ice & Ghost Pokemon
+SDex: #152, NDex: #479  Rotom is a Electric & Ghost Pokemon
+SDex: #152, NDex: #479  Rotom is a Electric & Fire Pokemon
+SDex: #152, NDex: #479  Rotom is a Electric & Water Pokemon
+SDex: #152, NDex: #479  Rotom is a Electric & Ice Pokemon
+SDex: #152, NDex: #479  Rotom is a Electric & Flying Pokemon
+SDex: #152, NDex: #479  Rotom is a Electric & Grass Pokemon
+SDex: #146, NDex: #480  Uxie is a Psychic Pokemon
+SDex: #147, NDex: #481  Mesprit is a Psychic Pokemon
+SDex: #148, NDex: #482  Azelf is a Psychic Pokemon
+SDex: #149, NDex: #483  Dialga is a Steel & Dragon Pokemon
+SDex: #150, NDex: #484  Palkia is a Water & Dragon Pokemon
+SDex: , NDex: #485  Heatran is a Fire & Steel Pokemon
+SDex: , NDex: #486  Regigigas is a Normal Pokemon
+SDex: #210, NDex: #487  Giratina is a Ghost & Dragon Pokemon
+SDex: #210, NDex: #487  Giratina is a Ghost & Dragon Pokemon
+SDex: , NDex: #488  Cresselia is a Psychic Pokemon
+SDex: , NDex: #489  Phione is a Water Pokemon
+SDex: #151, NDex: #490  Manaphy is a Water Pokemon
+SDex: , NDex: #491  Darkrai is a Dark Pokemon
+SDex: , NDex: #492  Shaymin is a Grass Pokemon
+SDex: , NDex: #492  Shaymin is a Grass & Flying Pokemon
+SDex: , NDex: #493  Arceus is a Normal Pokemon
+UDex: #000, NDex: #494  Victini is a Psychic & Fire Pokemon
+UDex: #001, NDex: #495  Snivy is a Grass Pokemon
+UDex: #002, NDex: #496  Servine is a Grass Pokemon
+UDex: #003, NDex: #497  Serperior is a Grass Pokemon
+UDex: #004, NDex: #498  Tepig is a Fire Pokemon
+UDex: #005, NDex: #499  Pignite is a Fire & Fighting Pokemon
+UDex: #006, NDex: #500  Emboar is a Fire & Fighting Pokemon
+UDex: #007, NDex: #501  Oshawott is a Water Pokemon
+UDex: #008, NDex: #502  Dewott is a Water Pokemon
+UDex: #009, NDex: #503  Samurott is a Water Pokemon
+UDex: #010, NDex: #504  Patrat is a Normal Pokemon
+UDex: #011, NDex: #505  Watchog is a Normal Pokemon
+UDex: #012, NDex: #506  Lillipup is a Normal Pokemon
+UDex: #013, NDex: #507  Herdier is a Normal Pokemon
+UDex: #014, NDex: #508  Stoutland is a Normal Pokemon
+UDex: #015, NDex: #509  Purrloin is a Dark Pokemon
+UDex: #016, NDex: #510  Liepard is a Dark Pokemon
+UDex: #017, NDex: #511  Pansage is a Grass Pokemon
+UDex: #018, NDex: #512  Simisage is a Grass Pokemon
+UDex: #019, NDex: #513  Pansear is a Fire Pokemon
+UDex: #020, NDex: #514  Simisear is a Fire Pokemon
+UDex: #021, NDex: #515  Panpour is a Water Pokemon
+UDex: #022, NDex: #516  Simipour is a Water Pokemon
+UDex: #023, NDex: #517  Munna is a Psychic Pokemon
+UDex: #024, NDex: #518  Musharna is a Psychic Pokemon
+UDex: #025, NDex: #519  Pidove is a Normal & Flying Pokemon
+UDex: #026, NDex: #520  Tranquill is a Normal & Flying Pokemon
+UDex: #027, NDex: #521  Unfezant is a Normal & Flying Pokemon
+UDex: #027, NDex: #521  Unfezant is a Normal & Flying Pokemon
+UDex: #028, NDex: #522  Blitzle is a Electric Pokemon
+UDex: #029, NDex: #523  Zebstrika is a Electric Pokemon
+UDex: #030, NDex: #524  Roggenrola is a Rock Pokemon
+UDex: #031, NDex: #525  Boldore is a Rock Pokemon
+UDex: #032, NDex: #526  Gigalith is a Rock Pokemon
+UDex: #033, NDex: #527  Woobat is a Psychic & Flying Pokemon
+UDex: #034, NDex: #528  Swoobat is a Psychic & Flying Pokemon
+UDex: #035, NDex: #529  Drilbur is a Ground Pokemon
+UDex: #036, NDex: #530  Excadrill is a Ground & Steel Pokemon
+UDex: #037, NDex: #531  Audino is a Normal Pokemon
+UDex: #038, NDex: #532  Timburr is a Fighting Pokemon
+UDex: #039, NDex: #533  Gurdurr is a Fighting Pokemon
+UDex: #040, NDex: #534  Conkeldurr is a Fighting Pokemon
+UDex: #041, NDex: #535  Tympole is a Water Pokemon
+UDex: #042, NDex: #536  Palpitoad is a Water & Ground Pokemon
+UDex: #043, NDex: #537  Seismitoad is a Water & Ground Pokemon
+UDex: #044, NDex: #538  Throh is a Fighting Pokemon
+UDex: #045, NDex: #539  Sawk is a Fighting Pokemon
+UDex: #046, NDex: #540  Sewaddle is a Bug & Grass Pokemon
+UDex: #047, NDex: #541  Swadloon is a Bug & Grass Pokemon
+UDex: #048, NDex: #542  Leavanny is a Bug & Grass Pokemon
+UDex: #049, NDex: #543  Venipede is a Bug & Poison Pokemon
+UDex: #050, NDex: #544  Whirlipede is a Bug & Poison Pokemon
+UDex: #051, NDex: #545  Scolipede is a Bug & Poison Pokemon
+UDex: #052, NDex: #546  Cottonee is a Grass & Fairy Pokemon
+UDex: #053, NDex: #547  Whimsicott is a Grass & Fairy Pokemon
+UDex: #054, NDex: #548  Petilil is a Grass Pokemon
+UDex: #055, NDex: #549  Lilligant is a Grass Pokemon
+UDex: #056, NDex: #550  Basculin is a Water Pokemon
+UDex: #056, NDex: #550  Basculin is a Water Pokemon
+UDex: #057, NDex: #551  Sandile is a Ground & Dark Pokemon
+UDex: #058, NDex: #552  Krokorok is a Ground & Dark Pokemon
+UDex: #059, NDex: #553  Krookodile is a Ground & Dark Pokemon
+UDex: #060, NDex: #554  Darumaka is a Fire Pokemon
+UDex: , NDex: #554  Darumaka is a Ice Pokemon
+UDex: #061, NDex: #555  Darmanitan is a Fire Pokemon
+UDex: #061, NDex: #555  Darmanitan is a Fire & Psychic Pokemon
+UDex: , NDex: #555  Darmanitan is a Ice Pokemon
+UDex: , NDex: #555  Darmanitan is a Ice & Fire Pokemon
+UDex: #062, NDex: #556  Maractus is a Grass Pokemon
+UDex: #063, NDex: #557  Dwebble is a Bug & Rock Pokemon
+UDex: #064, NDex: #558  Crustle is a Bug & Rock Pokemon
+UDex: #065, NDex: #559  Scraggy is a Dark & Fighting Pokemon
+UDex: #066, NDex: #560  Scrafty is a Dark & Fighting Pokemon
+UDex: #067, NDex: #561  Sigilyph is a Psychic & Flying Pokemon
+UDex: #068, NDex: #562  Yamask is a Ghost Pokemon
+UDex: , NDex: #562  Yamask is a Ground & Ghost Pokemon
+UDex: #069, NDex: #563  Cofagrigus is a Ghost Pokemon
+UDex: #070, NDex: #564  Tirtouga is a Water & Rock Pokemon
+UDex: #071, NDex: #565  Carracosta is a Water & Rock Pokemon
+UDex: #072, NDex: #566  Archen is a Rock & Flying Pokemon
+UDex: #073, NDex: #567  Archeops is a Rock & Flying Pokemon
+UDex: #074, NDex: #568  Trubbish is a Poison Pokemon
+UDex: #075, NDex: #569  Garbodor is a Poison Pokemon
+UDex: #076, NDex: #570  Zorua is a Dark Pokemon
+UDex: #077, NDex: #571  Zoroark is a Dark Pokemon
+UDex: #078, NDex: #572  Minccino is a Normal Pokemon
+UDex: #079, NDex: #573  Cinccino is a Normal Pokemon
+UDex: #080, NDex: #574  Gothita is a Psychic Pokemon
+UDex: #081, NDex: #575  Gothorita is a Psychic Pokemon
+UDex: #082, NDex: #576  Gothitelle is a Psychic Pokemon
+UDex: #083, NDex: #577  Solosis is a Psychic Pokemon
+UDex: #084, NDex: #578  Duosion is a Psychic Pokemon
+UDex: #085, NDex: #579  Reuniclus is a Psychic Pokemon
+UDex: #086, NDex: #580  Ducklett is a Water & Flying Pokemon
+UDex: #087, NDex: #581  Swanna is a Water & Flying Pokemon
+UDex: #088, NDex: #582  Vanillite is a Ice Pokemon
+UDex: #089, NDex: #583  Vanillish is a Ice Pokemon
+UDex: #090, NDex: #584  Vanilluxe is a Ice Pokemon
+UDex: #091, NDex: #585  Deerling is a Normal & Grass Pokemon
+UDex: #092, NDex: #586  Sawsbuck is a Normal & Grass Pokemon
+UDex: #093, NDex: #587  Emolga is a Electric & Flying Pokemon
+UDex: #094, NDex: #588  Karrablast is a Bug Pokemon
+UDex: #095, NDex: #589  Escavalier is a Bug & Steel Pokemon
+UDex: #096, NDex: #590  Foongus is a Grass & Poison Pokemon
+UDex: #097, NDex: #591  Amoonguss is a Grass & Poison Pokemon
+UDex: #098, NDex: #592  Frillish is a Water & Ghost Pokemon
+UDex: #098, NDex: #592  Frillish is a Water & Ghost Pokemon
+UDex: #099, NDex: #593  Jellicent is a Water & Ghost Pokemon
+UDex: #099, NDex: #593  Jellicent is a Water & Ghost Pokemon
+UDex: #100, NDex: #594  Alomomola is a Water Pokemon
+UDex: #101, NDex: #595  Joltik is a Bug & Electric Pokemon
+UDex: #102, NDex: #596  Galvantula is a Bug & Electric Pokemon
+UDex: #103, NDex: #597  Ferroseed is a Grass & Steel Pokemon
+UDex: #104, NDex: #598  Ferrothorn is a Grass & Steel Pokemon
+UDex: #105, NDex: #599  Klink is a Steel Pokemon
+UDex: #106, NDex: #600  Klang is a Steel Pokemon
+UDex: #107, NDex: #601  Klinklang is a Steel Pokemon
+UDex: #108, NDex: #602  Tynamo is a Electric Pokemon
+UDex: #109, NDex: #603  Eelektrik is a Electric Pokemon
+UDex: #110, NDex: #604  Eelektross is a Electric Pokemon
+UDex: #111, NDex: #605  Elgyem is a Psychic Pokemon
+UDex: #112, NDex: #606  Beheeyem is a Psychic Pokemon
+UDex: #113, NDex: #607  Litwick is a Ghost & Fire Pokemon
+UDex: #114, NDex: #608  Lampent is a Ghost & Fire Pokemon
+UDex: #115, NDex: #609  Chandelure is a Ghost & Fire Pokemon
+UDex: #116, NDex: #610  Axew is a Dragon Pokemon
+UDex: #117, NDex: #611  Fraxure is a Dragon Pokemon
+UDex: #118, NDex: #612  Haxorus is a Dragon Pokemon
+UDex: #119, NDex: #613  Cubchoo is a Ice Pokemon
+UDex: #120, NDex: #614  Beartic is a Ice Pokemon
+UDex: #121, NDex: #615  Cryogonal is a Ice Pokemon
+UDex: #122, NDex: #616  Shelmet is a Bug Pokemon
+UDex: #123, NDex: #617  Accelgor is a Bug Pokemon
+UDex: #124, NDex: #618  Stunfisk is a Ground & Electric Pokemon
+UDex: , NDex: #618  Stunfisk is a Ground & Steel Pokemon
+UDex: #125, NDex: #619  Mienfoo is a Fighting Pokemon
+UDex: #126, NDex: #620  Mienshao is a Fighting Pokemon
+UDex: #127, NDex: #621  Druddigon is a Dragon Pokemon
+UDex: #128, NDex: #622  Golett is a Ground & Ghost Pokemon
+UDex: #129, NDex: #623  Golurk is a Ground & Ghost Pokemon
+UDex: #130, NDex: #624  Pawniard is a Dark & Steel Pokemon
+UDex: #131, NDex: #625  Bisharp is a Dark & Steel Pokemon
+UDex: #132, NDex: #626  Bouffalant is a Normal Pokemon
+UDex: #133, NDex: #627  Rufflet is a Normal & Flying Pokemon
+UDex: #134, NDex: #628  Braviary is a Normal & Flying Pokemon
+UDex: #135, NDex: #629  Vullaby is a Dark & Flying Pokemon
+UDex: #136, NDex: #630  Mandibuzz is a Dark & Flying Pokemon
+UDex: #137, NDex: #631  Heatmor is a Fire Pokemon
+UDex: #138, NDex: #632  Durant is a Bug & Steel Pokemon
+UDex: #139, NDex: #633  Deino is a Dark & Dragon Pokemon
+UDex: #140, NDex: #634  Zweilous is a Dark & Dragon Pokemon
+UDex: #141, NDex: #635  Hydreigon is a Dark & Dragon Pokemon
+UDex: #142, NDex: #636  Larvesta is a Bug & Fire Pokemon
+UDex: #143, NDex: #637  Volcarona is a Bug & Fire Pokemon
+UDex: #144, NDex: #638  Cobalion is a Steel & Fighting Pokemon
+UDex: #145, NDex: #639  Terrakion is a Rock & Fighting Pokemon
+UDex: #146, NDex: #640  Virizion is a Grass & Fighting Pokemon
+UDex: #147, NDex: #641  Tornadus is a Flying Pokemon
+UDex: #148, NDex: #642  Thundurus is a Electric & Flying Pokemon
+UDex: #149, NDex: #643  Reshiram is a Dragon & Fire Pokemon
+UDex: #150, NDex: #644  Zekrom is a Dragon & Electric Pokemon
+UDex: #151, NDex: #645  Landorus is a Ground & Flying Pokemon
+UDex: #152, NDex: #646  Kyurem is a Dragon & Ice Pokemon
+UDex: #153, NDex: #647  Keldeo is a Water & Fighting Pokemon
+UDex: #154, NDex: #648  Meloetta is a Normal & Psychic Pokemon
+UDex: #154, NDex: #648  Meloetta is a Normal & Fighting Pokemon
+UDex: #155, NDex: #649  Genesect is a Bug & Steel Pokemon
+KDex: #001Ce, NDex: #650  Chespin is a Grass Pokemon
+KDex: #002Ce, NDex: #651  Quilladin is a Grass Pokemon
+KDex: #003Ce, NDex: #652  Chesnaught is a Grass & Fighting Pokemon
+KDex: #004Ce, NDex: #653  Fennekin is a Fire Pokemon
+KDex: #005Ce, NDex: #654  Braixen is a Fire Pokemon
+KDex: #006Ce, NDex: #655  Delphox is a Fire & Psychic Pokemon
+KDex: #007Ce, NDex: #656  Froakie is a Water Pokemon
+KDex: #008Ce, NDex: #657  Frogadier is a Water Pokemon
+KDex: #009Ce, NDex: #658  Greninja is a Water & Dark Pokemon
+KDex: #010Ce, NDex: #659  Bunnelby is a Normal Pokemon
+KDex: #011Ce, NDex: #660  Diggersby is a Normal & Ground Pokemon
+KDex: #014Ce, NDex: #661  Fletchling is a Normal & Flying Pokemon
+KDex: #015Ce, NDex: #662  Fletchinder is a Fire & Flying Pokemon
+KDex: #016Ce, NDex: #663  Talonflame is a Fire & Flying Pokemon
+KDex: #020Ce, NDex: #664  Scatterbug is a Bug Pokemon
+KDex: #021Ce, NDex: #665  Spewpa is a Bug Pokemon
+KDex: #022Ce, NDex: #666  Vivillon is a Bug & Flying Pokemon
+KDex: #057Ce, NDex: #667  Litleo is a Fire & Normal Pokemon
+KDex: #058Ce, NDex: #668  Pyroar is a Fire & Normal Pokemon
+KDex: #068Ce, NDex: #669  Flabébé is a Fairy Pokemon
+KDex: #069Ce, NDex: #670  Floette is a Fairy Pokemon
+KDex: #070Ce, NDex: #671  Florges is a Fairy Pokemon
+KDex: #089Ce, NDex: #672  Skiddo is a Grass Pokemon
+KDex: #090Ce, NDex: #673  Gogoat is a Grass Pokemon
+KDex: #091Ce, NDex: #674  Pancham is a Fighting Pokemon
+KDex: #092Ce, NDex: #675  Pangoro is a Fighting & Dark Pokemon
+KDex: #093Ce, NDex: #676  Furfrou is a Normal Pokemon
+KDex: #114Ce, NDex: #677  Espurr is a Psychic Pokemon
+KDex: #115Ce, NDex: #678  Meowstic is a Psychic Pokemon
+KDex: #117Ce, NDex: #679  Honedge is a Steel & Ghost Pokemon
+KDex: #118Ce, NDex: #680  Doublade is a Steel & Ghost Pokemon
+KDex: #119Ce, NDex: #681  Aegislash is a Steel & Ghost Pokemon
+KDex: #129Ce, NDex: #682  Spritzee is a Fairy Pokemon
+KDex: #130Ce, NDex: #683  Aromatisse is a Fairy Pokemon
+KDex: #131Ce, NDex: #684  Swirlix is a Fairy Pokemon
+KDex: #132Ce, NDex: #685  Slurpuff is a Fairy Pokemon
+KDex: #010Co, NDex: #686  Inkay is a Dark & Psychic Pokemon
+KDex: #011Co, NDex: #687  Malamar is a Dark & Psychic Pokemon
+KDex: #021Co, NDex: #688  Binacle is a Rock & Water Pokemon
+KDex: #022Co, NDex: #689  Barbaracle is a Rock & Water Pokemon
+KDex: #030Co, NDex: #690  Skrelp is a Poison & Water Pokemon
+KDex: #031Co, NDex: #691  Dragalge is a Poison & Dragon Pokemon
+KDex: #032Co, NDex: #692  Clauncher is a Water Pokemon
+KDex: #033Co, NDex: #693  Clawitzer is a Water Pokemon
+KDex: #046Co, NDex: #694  Helioptile is a Electric & Normal Pokemon
+KDex: #047Co, NDex: #695  Heliolisk is a Electric & Normal Pokemon
+KDex: #064Co, NDex: #696  Tyrunt is a Rock & Dragon Pokemon
+KDex: #065Co, NDex: #697  Tyrantrum is a Rock & Dragon Pokemon
+KDex: #066Co, NDex: #698  Amaura is a Rock & Ice Pokemon
+KDex: #067Co, NDex: #699  Aurorus is a Rock & Ice Pokemon
+KDex: #085Co, NDex: #700  Sylveon is a Fairy Pokemon
+KDex: #089Co, NDex: #701  Hawlucha is a Fighting & Flying Pokemon
+KDex: #110Co, NDex: #702  Dedenne is a Electric & Fairy Pokemon
+KDex: #124Co, NDex: #703  Carbink is a Rock & Fairy Pokemon
+KDex: #019Mo, NDex: #704  Goomy is a Dragon Pokemon
+KDex: #020Mo, NDex: #705  Sliggoo is a Dragon Pokemon
+KDex: #021Mo, NDex: #706  Goodra is a Dragon Pokemon
+KDex: #050Mo, NDex: #707  Klefki is a Steel & Fairy Pokemon
+KDex: #061Mo, NDex: #708  Phantump is a Ghost & Grass Pokemon
+KDex: #062Mo, NDex: #709  Trevenant is a Ghost & Grass Pokemon
+KDex: #063Mo, NDex: #710  Pumpkaboo is a Ghost & Grass Pokemon
+KDex: #064Mo, NDex: #711  Gourgeist is a Ghost & Grass Pokemon
+KDex: #079Mo, NDex: #712  Bergmite is a Ice Pokemon
+KDex: #080Mo, NDex: #713  Avalugg is a Ice Pokemon
+KDex: #113Mo, NDex: #714  Noibat is a Flying & Dragon Pokemon
+KDex: #114Mo, NDex: #715  Noivern is a Flying & Dragon Pokemon
+KDex: #148Mo, NDex: #716  Xerneas is a Fairy Pokemon
+KDex: #149Mo, NDex: #717  Yveltal is a Dark & Flying Pokemon
+KDex: #150Mo, NDex: #718  Zygarde is a Dragon & Ground Pokemon
+KDex: #151Ce, NDex: #719  Diancie is a Rock & Fairy Pokemon
+KDex: #152Ce, NDex: #720  Hoopa is a Psychic & Ghost Pokemon
+KDex: #152Ce, NDex: #720  Hoopa is a Psychic & Dark Pokemon
+KDex: #153Ce, NDex: #721  Volcanion is a Fire & Water Pokemon
+ADex: #001, NDex: #722  Rowlet is a Grass & Flying Pokemon
+ADex: #002, NDex: #723  Dartrix is a Grass & Flying Pokemon
+ADex: #003, NDex: #724  Decidueye is a Grass & Ghost Pokemon
+ADex: #004, NDex: #725  Litten is a Fire Pokemon
+ADex: #005, NDex: #726  Torracat is a Fire Pokemon
+ADex: #006, NDex: #727  Incineroar is a Fire & Dark Pokemon
+ADex: #007, NDex: #728  Popplio is a Water Pokemon
+ADex: #008, NDex: #729  Brionne is a Water Pokemon
+ADex: #009, NDex: #730  Primarina is a Water & Fairy Pokemon
+ADex: #010, NDex: #731  Pikipek is a Normal & Flying Pokemon
+ADex: #011, NDex: #732  Trumbeak is a Normal & Flying Pokemon
+ADex: #012, NDex: #733  Toucannon is a Normal & Flying Pokemon
+ADex: #013, NDex: #734  Yungoos is a Normal Pokemon
+ADex: #014, NDex: #735  Gumshoos is a Normal Pokemon
+ADex: #027, NDex: #736  Grubbin is a Bug Pokemon
+ADex: #028, NDex: #737  Charjabug is a Bug & Electric Pokemon
+ADex: #029, NDex: #738  Vikavolt is a Bug & Electric Pokemon
+ADex: #059, NDex: #739  Crabrawler is a Fighting Pokemon
+ADex: #060, NDex: #740  Crabominable is a Fighting & Ice Pokemon
+ADex: #082, NDex: #741  Oricorio is a Fire & Flying Pokemon
+ADex: #082, NDex: #741  Oricorio is a Electric & Flying Pokemon
+ADex: #082, NDex: #741  Oricorio is a Psychic & Flying Pokemon
+ADex: #082, NDex: #741  Oricorio is a Ghost & Flying Pokemon
+ADex: #083, NDex: #742  Cutiefly is a Bug & Fairy Pokemon
+ADex: #084, NDex: #743  Ribombee is a Bug & Fairy Pokemon
+ADex: #103, NDex: #744  Rockruff is a Rock Pokemon
+ADex: #104, NDex: #745  Lycanroc is a Rock Pokemon
+ADex: #110, NDex: #746  Wishiwashi is a Water Pokemon
+ADex: #113, NDex: #747  Mareanie is a Poison & Water Pokemon
+ADex: #114, NDex: #748  Toxapex is a Poison & Water Pokemon
+ADex: #132, NDex: #749  Mudbray is a Ground Pokemon
+ADex: #133, NDex: #750  Mudsdale is a Ground Pokemon
+ADex: #141, NDex: #751  Dewpider is a Water & Bug Pokemon
+ADex: #142, NDex: #752  Araquanid is a Water & Bug Pokemon
+ADex: #143, NDex: #753  Fomantis is a Grass Pokemon
+ADex: #144, NDex: #754  Lurantis is a Grass Pokemon
+ADex: #145, NDex: #755  Morelull is a Grass & Fairy Pokemon
+ADex: #146, NDex: #756  Shiinotic is a Grass & Fairy Pokemon
+ADex: #161, NDex: #757  Salandit is a Poison & Fire Pokemon
+ADex: #162, NDex: #758  Salazzle is a Poison & Fire Pokemon
+ADex: #169, NDex: #759  Stufful is a Normal & Fighting Pokemon
+ADex: #170, NDex: #760  Bewear is a Normal & Fighting Pokemon
+ADex: #171, NDex: #761  Bounsweet is a Grass Pokemon
+ADex: #172, NDex: #762  Steenee is a Grass Pokemon
+ADex: #173, NDex: #763  Tsareena is a Grass Pokemon
+ADex: #174, NDex: #764  Comfey is a Fairy Pokemon
+ADex: #176, NDex: #765  Oranguru is a Normal & Psychic Pokemon
+ADex: #177, NDex: #766  Passimian is a Fighting Pokemon
+ADex: #182, NDex: #767  Wimpod is a Bug & Water Pokemon
+ADex: #183, NDex: #768  Golisopod is a Bug & Water Pokemon
+ADex: #186, NDex: #769  Sandygast is a Ghost & Ground Pokemon
+ADex: #187, NDex: #770  Palossand is a Ghost & Ground Pokemon
+ADex: #200, NDex: #771  Pyukumuku is a Water Pokemon
+ADex: #203, NDex: #772  Type: Null is a Normal Pokemon
+ADex: #204, NDex: #773  Silvally is a Normal Pokemon
+ADex: #213, NDex: #774  Minior is a Rock & Flying Pokemon
+ADex: #222, NDex: #775  Komala is a Normal Pokemon
+ADex: #224, NDex: #776  Turtonator is a Fire & Dragon Pokemon
+ADex: #225, NDex: #777  Togedemaru is a Electric & Steel Pokemon
+ADex: #242, NDex: #778  Mimikyu is a Ghost & Fairy Pokemon
+ADex: #243, NDex: #779  Bruxish is a Water & Psychic Pokemon
+ADex: #244, NDex: #780  Drampa is a Normal & Dragon Pokemon
+ADex: #263, NDex: #781  Dhelmise is a Ghost & Grass Pokemon
+ADex: #271, NDex: #782  Jangmo-o is a Dragon Pokemon
+ADex: #272, NDex: #783  Hakamo-o is a Dragon & Fighting Pokemon
+ADex: #273, NDex: #784  Kommo-o is a Dragon & Fighting Pokemon
+ADex: #285, NDex: #785  Tapu Koko is a Electric & Fairy Pokemon
+ADex: #286, NDex: #786  Tapu Lele is a Psychic & Fairy Pokemon
+ADex: #287, NDex: #787  Tapu Bulu is a Grass & Fairy Pokemon
+ADex: #288, NDex: #788  Tapu Fini is a Water & Fairy Pokemon
+ADex: #289, NDex: #789  Cosmog is a Psychic Pokemon
+ADex: #290, NDex: #790  Cosmoem is a Psychic Pokemon
+ADex: #291, NDex: #791  Solgaleo is a Psychic & Steel Pokemon
+ADex: #292, NDex: #792  Lunala is a Psychic & Ghost Pokemon
+ADex: #293, NDex: #793  Nihilego is a Rock & Poison Pokemon
+ADex: #294, NDex: #794  Buzzwole is a Bug & Fighting Pokemon
+ADex: #295, NDex: #795  Pheromosa is a Bug & Fighting Pokemon
+ADex: #296, NDex: #796  Xurkitree is a Electric Pokemon
+ADex: #297, NDex: #797  Celesteela is a Steel & Flying Pokemon
+ADex: #298, NDex: #798  Kartana is a Grass & Steel Pokemon
+ADex: #299, NDex: #799  Guzzlord is a Dark & Dragon Pokemon
+ADex: #300, NDex: #800  Necrozma is a Psychic Pokemon
+ADex: #301, NDex: #801  Magearna is a Steel & Fairy Pokemon
+ADex: #302, NDex: #802  Marshadow is a Fighting & Ghost Pokemon
+ADex: #261, NDex: #803  Poipole is a Poison Pokemon
+ADex: #262, NDex: #804  Naganadel is a Poison & Dragon Pokemon
+ADex: #392, NDex: #805  Stakataka is a Rock & Steel Pokemon
+ADex: #393, NDex: #806  Blacephalon is a Fire & Ghost Pokemon
+ADex: #403, NDex: #807  Zeraora is a Electric Pokemon
+ADex: #---, NDex: #808  Meltan is a Steel Pokemon
+ADex: #---, NDex: #809  Melmetal is a Steel Pokemon
+GDex: #001, NDex: #810  Grookey is a Grass Pokemon
+GDex: #002, NDex: #811  Thwackey is a Grass Pokemon
+GDex: #003, NDex: #812  Rillaboom is a Grass Pokemon
+GDex: #004, NDex: #813  Scorbunny is a Fire Pokemon
+GDex: #005, NDex: #814  Raboot is a Fire Pokemon
+GDex: #006, NDex: #815  Cinderace is a Fire Pokemon
+GDex: #007, NDex: #816  Sobble is a Water Pokemon
+GDex: #008, NDex: #817  Drizzile is a Water Pokemon
+GDex: #009, NDex: #818  Inteleon is a Water Pokemon
+GDex: #024, NDex: #819  Skwovet is a Normal Pokemon
+GDex: #025, NDex: #820  Greedent is a Normal Pokemon
+GDex: #021, NDex: #821  Rookidee is a Flying Pokemon
+GDex: #022, NDex: #822  Corvisquire is a Flying Pokemon
+GDex: #023, NDex: #823  Corviknight is a Flying & Steel Pokemon
+GDex: #010, NDex: #824  Blipbug is a Bug Pokemon
+GDex: #011, NDex: #825  Dottler is a Bug & Psychic Pokemon
+GDex: #012, NDex: #826  Orbeetle is a Bug & Psychic Pokemon
+GDex: #029, NDex: #827  Nickit is a Dark Pokemon
+GDex: #030, NDex: #828  Thievul is a Dark Pokemon
+GDex: #126, NDex: #829  Gossifleur is a Grass Pokemon
+GDex: #127, NDex: #830  Eldegoss is a Grass Pokemon
+GDex: #034, NDex: #831  Wooloo is a Normal Pokemon
+GDex: #035, NDex: #832  Dubwool is a Normal Pokemon
+GDex: #042, NDex: #833  Chewtle is a Water Pokemon
+GDex: #043, NDex: #834  Drednaw is a Water & Rock Pokemon
+GDex: #046, NDex: #835  Yamper is a Electric Pokemon
+GDex: #047, NDex: #836  Boltund is a Electric Pokemon
+GDex: #161, NDex: #837  Rolycoly is a Rock Pokemon
+GDex: #162, NDex: #838  Carkol is a Rock & Fire Pokemon
+GDex: #163, NDex: #839  Coalossal is a Rock & Fire Pokemon
+GDex: #205, NDex: #840  Applin is a Grass & Dragon Pokemon
+GDex: #206, NDex: #841  Flapple is a Grass & Dragon Pokemon
+GDex: #207, NDex: #842  Appletun is a Grass & Dragon Pokemon
+GDex: #312, NDex: #843  Silicobra is a Ground Pokemon
+GDex: #313, NDex: #844  Sandaconda is a Ground Pokemon
+GDex: #309, NDex: #845  Cramorant is a Flying & Water Pokemon
+GDex: #180, NDex: #846  Arrokuda is a Water Pokemon
+GDex: #181, NDex: #847  Barraskewda is a Water Pokemon
+GDex: #310, NDex: #848  Toxel is a Electric & Poison Pokemon
+GDex: #311, NDex: #849  Toxtricity is a Electric & Poison Pokemon
+GDex: #159, NDex: #850  Sizzlipede is a Fire & Bug Pokemon
+GDex: #160, NDex: #851  Centiskorch is a Fire & Bug Pokemon
+GDex: #351, NDex: #852  Clobbopus is a Fighting Pokemon
+GDex: #352, NDex: #853  Grapploct is a Fighting Pokemon
+GDex: #335, NDex: #854  Sinistea is a Ghost Pokemon
+GDex: #336, NDex: #855  Polteageist is a Ghost Pokemon
+GDex: #241, NDex: #856  Hatenna is a Psychic Pokemon
+GDex: #242, NDex: #857  Hattrem is a Psychic Pokemon
+GDex: #243, NDex: #858  Hatterene is a Psychic & Fairy Pokemon
+GDex: #238, NDex: #859  Impidimp is a Dark & Fairy Pokemon
+GDex: #239, NDex: #860  Morgrem is a Dark & Fairy Pokemon
+GDex: #240, NDex: #861  Grimmsnarl is a Dark & Fairy Pokemon
+GDex: #033, NDex: #862  Obstagoon is a Dark & Normal Pokemon
+GDex: #183, NDex: #863  Perrserker is a Steel Pokemon
+GDex: #237, NDex: #864  Cursola is a Ghost Pokemon
+GDex: #219, NDex: #865  Sirfetch'd is a Fighting Pokemon
+GDex: #366, NDex: #866  Mr. Rime is a Ice & Psychic Pokemon
+GDex: #328, NDex: #867  Runerigus is a Ground & Ghost Pokemon
+GDex: #185, NDex: #868  Milcery is a Fairy Pokemon
+GDex: #186, NDex: #869  Alcremie is a Fairy Pokemon
+GDex: #345, NDex: #870  Falinks is a Fighting Pokemon
+GDex: #353, NDex: #871  Pincurchin is a Electric Pokemon
+GDex: #349, NDex: #872  Snom is a Ice & Bug Pokemon
+GDex: #350, NDex: #873  Frosmoth is a Ice & Bug Pokemon
+GDex: #369, NDex: #874  Stonjourner is a Rock Pokemon
+GDex: #370, NDex: #875  Eiscue is a Ice Pokemon
+GDex: #337, NDex: #876  Indeedee is a Psychic & Normal Pokemon
+GDex: #344, NDex: #877  Morpeko is a Electric & Dark Pokemon
+GDex: #302, NDex: #878  Cufant is a Steel Pokemon
+GDex: #303, NDex: #879  Copperajah is a Steel Pokemon
+GDex: #374, NDex: #880  Dracozolt is a Electric & Dragon Pokemon
+GDex: #375, NDex: #881  Arctozolt is a Electric & Ice Pokemon
+GDex: #376, NDex: #882  Dracovish is a Water & Dragon Pokemon
+GDex: #377, NDex: #883  Arctovish is a Water & Ice Pokemon
+GDex: #371, NDex: #884  Duraludon is a Steel & Dragon Pokemon
+GDex: #395, NDex: #885  Dreepy is a Dragon & Ghost Pokemon
+GDex: #396, NDex: #886  Drakloak is a Dragon & Ghost Pokemon
+GDex: #397, NDex: #887  Dragapult is a Dragon & Ghost Pokemon
+GDex: #398, NDex: #888  Zacian is a Fairy Pokemon
+GDex: #398, NDex: #888  Zacian is a Fairy & Steel Pokemon
+GDex: #399, NDex: #889  Zamazenta is a Fighting Pokemon
+GDex: #399, NDex: #889  Zamazenta is a Fighting & Steel Pokemon
+GDex: #400, NDex: #890  Eternatus is a Poison & Dragon Pokemon
+GDex: #---, NDex: #891  Kubfu is a Fighting Pokemon
+GDex: #---, NDex: #892  Urshifu is a Fighting & Dark Pokemon
+GDex: #---, NDex: #892  Urshifu is a Fighting & Water Pokemon
+GDex: #---, NDex: #893  Zarude is a Dark & Grass Pokemon
+GDex: #---, NDex: #894  Regieleki is a Electric Pokemon
+GDex: #---, NDex: #895  Regidrago is a Dragon Pokemon
+GDex: #---, NDex: #896  Glastrier is a Ice Pokemon
+GDex: #---, NDex: #897  Spectrier is a Ghost Pokemon
+GDex: #---, NDex: #898  Calyrex is a Psychic & Grass Pokemon
+GDex: #---, NDex: #898  Calyrex is a Psychic & Ice Pokemon
+GDex: #---, NDex: #898  Calyrex is a Psychic & Ghost Pokemon
