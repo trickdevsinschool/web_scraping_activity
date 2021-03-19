@@ -1,0 +1,266 @@
+{
+   "status": "ok",
+   "totalResults": 450,
+   "articles": [
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Oxford-AstraZeneca: Denmark suspends vaccine 'as a precaution'",
+         "description": "The decision follows a death and reports of blood clots, but the health minister says no link is established.",
+         "url": "https://www.bbc.co.uk/news/world-europe-56357760",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15DEE/production/_117528598_den.jpg",
+         "publishedAt": "2021-03-11T11:32:43Z",
+         "content": "image captionDenmark's health authority says the hold on the rollout of the Oxford-AstraZeneca vaccine is temporary\r\nDenmark has temporarily halted use of the Oxford-AstraZeneca vaccine as a precauti\u2026 [+3146 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "The Hebrides' wild swimming 'real-life' mermaid",
+         "description": "Kate Macleod can be found swimming in seas and lochs around the Western Isles in summer - and winter.",
+         "url": "https://www.bbc.co.uk/news/uk-scotland-highlands-islands-56359621",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141D8/production/_117529328_mermaideight.jpg",
+         "publishedAt": "2021-03-11T11:46:30Z",
+         "content": "A wild swimmer has been exploring the Western Isles' coast in a custom-made mermaid tale.\r\nimage copyrightBBC Alba/MacTV\r\nimage captionKate MacLeod swimming using one of her custom-made mermaid tales\u2026 [+1743 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Teen Vogue editor Alexi McCammond apologises for 'anti-Asian' tweets",
+         "description": "Staff at the magazine had said editor Alexi McCammond's tweets threatened the outlet's values.",
+         "url": "https://www.bbc.co.uk/news/world-us-canada-56359165",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E98/production/_117527296_gettyimages-1183816965.jpg",
+         "publishedAt": "2021-03-11T12:30:02Z",
+         "content": "image copyrightGetty Images\r\nimage captionAlexi McCammond, 29, was hired by Teen Vogue last week\r\nThe newly-appointed editor of Teen Vogue has apologised for \"racist and homophobic\" tweets she wrote \u2026 [+2859 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Roblox: David Baszucki worth $4.6bn as shares soar",
+         "description": "First day's trading sees David Baszucki's firm now worth more than some of the biggest gaming firms.",
+         "url": "https://www.bbc.co.uk/news/technology-56359211",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E4D6/production/_117528585_davidbaszucki.jpg",
+         "publishedAt": "2021-03-11T12:44:45Z",
+         "content": "image copyrightGetty Images\r\nimage captionDavid Baszucki will be celebrating after his stake in Roblox soared in value\r\nChief executive of Roblox David Baszucki may well be letting out the \"Oof\" soun\u2026 [+2762 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "2021/03/11 12:00 GMT",
+         "description": "The latest five minute news bulletin from BBC World Service.",
+         "url": "https://www.bbc.co.uk/programmes/w172x5pc0dlv8sw",
+         "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p060dh18.jpg",
+         "publishedAt": "2021-03-11T12:06:00Z",
+         "content": "The latest five minute news bulletin from BBC World Service."
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Circle of Hope: Boarding school couple charged after TikTok abuse allegations",
+         "description": "The ex-owners of Circle of Hope Girls' Ranch face more than 100 charges after women speak out online.",
+         "url": "https://www.bbc.co.uk/news/world-us-canada-56357828",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B2FF/production/_117532854_collage.jpg",
+         "publishedAt": "2021-03-11T14:54:58Z",
+         "content": "image captionThe couple's estranged daughter has helped expose their alleged abuse of girls at their ranch\r\nThe owners of a shuttered religious boarding school in Missouri, USA, are facing dozens of \u2026 [+4660 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Sven Badzak death: Man, 20, charged with murder",
+         "description": "Aspiring lawyer Sven Badzak was chased and then attacked while he was out to buy food.",
+         "url": "https://www.bbc.co.uk/news/uk-england-london-56361293",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D347/production/_116878045_ffca2ac0-bbaa-45b6-91f9-38ceeab2fb62.jpg",
+         "publishedAt": "2021-03-11T11:53:45Z",
+         "content": "image copyrightMetropolitan Police\r\nimage captionSven Badzak has been described by his mother as someone \"who would never raise a hand unless he was going to lift you up\"\r\nA man has been charged with\u2026 [+840 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Rushanara Ali: 'End of distressing period' for MP after 'stream of abuse'",
+         "description": "Labour's Rushanara Ali said she \"lived in fear\" during an 18-month barrage of abusive messages.",
+         "url": "https://www.bbc.co.uk/news/uk-england-london-56361297",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/050C/production/_117529210_hi040857655.jpg",
+         "publishedAt": "2021-03-11T13:09:40Z",
+         "content": "image copyright UK Parliament\r\nimage captionHussain Sha said he would \"blow up Rushanara's office terrorist-style with petrol\"\r\nA Labour MP exposed to a stream of harassment by a constituent is marki\u2026 [+1918 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "Miguel Cummins: Kent sign West Indies bowler for start of season",
+         "description": "Kent sign West Indies fast bowler Miguel Cummins for the first eight matches of the County Championship campaign.",
+         "url": "https://www.bbc.co.uk/sport/cricket/56362792",
+         "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0783/production/_117532910_miguelcummins.jpg",
+         "publishedAt": "2021-03-11T13:54:46Z",
+         "content": "Miguel Cummins took first-innings figures of 5-62 for Middlesex when the north London club drew with Kent in the Bob Willis Trophy last August\r\nKent have signed West Indies fast bowler Miguel Cummins\u2026 [+476 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "India v England: Eoin Morgan says tourists are not prioritising T20",
+         "description": "Captain Eoin Morgan says it is a \"rarity\" for England to be at full strength in their Twenty20 series against India.",
+         "url": "https://www.bbc.co.uk/sport/cricket/56363459",
+         "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14E27/production/_117534558_eoinmorgan.jpg",
+         "publishedAt": "2021-03-11T14:16:26Z",
+         "content": "England captain Eoin Morgan is set to play his 100th T20 international during the series against India\r\nCaptain Eoin Morgan says it is a \"rarity\" for England to be at full strength in their Twenty20 \u2026 [+2910 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "2021/03/11 14:00 GMT",
+         "description": "The latest five minute news bulletin from BBC World Service.",
+         "url": "https://www.bbc.co.uk/programmes/w172x5pc0dlvj94",
+         "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p060dh18.jpg",
+         "publishedAt": "2021-03-11T14:06:00Z",
+         "content": "The latest five minute news bulletin from BBC World Service."
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "Pro14: Glasgow v Ospreys (Fri)",
+         "description": "Team news and preview for Ospreys' Friday night visit to Glasgow in Pro14.",
+         "url": "https://www.bbc.co.uk/sport/rugby-union/56357903",
+         "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/585F/production/_117532622_cdf_240121_connacht_v_ospreys_50.jpg",
+         "publishedAt": "2021-03-11T12:19:46Z",
+         "content": "Reuben Morgan Williams scores Ospreys' opening try in October's 23-15 Pro14 victory over Glasgow at Liberty Stadium\r\n<table><tr><th>Pro14: Glasgow Warriors v Ospreys</th></tr>\r\n<tr><td>Venue: Scotsto\u2026 [+3125 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Rhondda: Wenjing Lin's murder accused appears in court",
+         "description": "Wenjing Lin died on Friday at her family's takeaway restaurant.",
+         "url": "https://www.bbc.co.uk/news/uk-wales-56358022",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/373F/production/_117534141_defendantde15.jpg",
+         "publishedAt": "2021-03-11T13:43:45Z",
+         "content": "image captionDefendant Chun Xu appeared at Merthyr Tydfil Magistrates' Court on Thursday\r\nA man has appeared in court charged with the murder of a 16-year-old girl and the attempted murder of a man, \u2026 [+587 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Academy Museum Why this could be a mecca for movie fans",
+         "description": "After decades of wrangling this ambitious venue devoted to cinema is finally set to open.",
+         "url": "https://www.bbc.co.uk/news/entertainment-arts-56358266",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73E8/production/_117527692_exteriorcapture.jpg",
+         "publishedAt": "2021-03-11T15:42:35Z",
+         "content": "By Vincent DowdArts correspondent, BBC News\r\nimage copyrightAcademy Museum Foundation\r\nimage captionThe original five-storey 1939 site now includes a new spherical building designed by Italian archit\u2026 [+5703 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Woman sentenced over neglect of 'caged' toddler",
+         "description": "Claire Boyle, 34, was ordered to carry out community service after being convicted on neglect charges.",
+         "url": "https://www.bbc.co.uk/news/uk-scotland-56360211",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F251/production/_117533026_cagearrivals.1_frame_2138.jpg",
+         "publishedAt": "2021-03-11T13:03:17Z",
+         "content": "image captionTimothy Johnstone and Claire Boyle arriving at Kilmarnock Sheriff Court\r\nA woman who kept a two-year-old child in a makeshift cage has been ordered to carry out community service.\r\nClair\u2026 [+1874 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "South Africa cricket captain Temba Bavuma inspired by England's Eoin Morgan",
+         "description": "South Africa's limited-overs cricket captain Temba Bavuma admits he looks to his England counterpart Eoin Morgan for inspiration.",
+         "url": "https://www.bbc.co.uk/sport/africa/56344990",
+         "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/C524/production/_117386405_bavuma_getty2.jpg",
+         "publishedAt": "2021-03-11T11:12:46Z",
+         "content": "South Africa's Temba Bavuma in action\r\nNot only is Temba Bavuma the first permanent black African captain of a South African international cricket team but he has three World Cups to prepare for.\r\nAs\u2026 [+3417 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Covid vaccine: How many people has India vaccinated?",
+         "description": "More than 20 million people in India have received at least one dose of a coronavirus vaccine so far.",
+         "url": "https://www.bbc.co.uk/news/world-asia-india-56345591",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C6FE/production/_117524905_gettyimages-1231631749.jpg",
+         "publishedAt": "2021-03-11T05:08:09Z",
+         "content": "More than 20 million people in India have received at least one dose of a coronavirus vaccine in what is the world's biggest inoculation drive.\r\nSince the pandemic began, India has confirmed more tha\u2026 [+3874 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "Covid: The man with \"super antibodies\"",
+         "description": "John Hollis has antibodies that can kill the virus and variants but the discovery was nearly missed.",
+         "url": "https://www.bbc.co.uk/news/av/world-us-canada-56324050",
+         "urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p099b25p.jpg",
+         "publishedAt": "2021-03-11T00:01:41Z",
+         "content": "John Hollis didnt realise hed been infected with Covid-19. But he later discovered hes one of the rare people who has super antibodies. \r\nThe antibodies are so good at killing the virus, hes practica\u2026 [+216 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Covid: Texas and Mississippi lifting restrictions too soon?",
+         "description": "Two US states are lifting compulsory coronavirus restrictions, but are they in a position to do so?",
+         "url": "https://www.bbc.co.uk/news/world-us-canada-56297329",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7FF8/production/_117506723_austin_mask_gettyimages-1231493646.jpg",
+         "publishedAt": "2021-03-11T00:44:08Z",
+         "content": "By Jake HortonBBC Reality Check\r\nimage captionTexas is some way off reaching wider immunity through vaccinations\r\nThe governors of the US states of Texas and Mississippi have lifted all compulsory Co\u2026 [+5192 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "Palin and Jones: 'We didn't talk about the stammer'",
+         "description": "Former rugby player Mark Jones and Sir Michael Palin talk about their experiences of stammering.",
+         "url": "https://www.bbc.co.uk/news/av/uk-56351958",
+         "urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p099955p.jpg",
+         "publishedAt": "2021-03-11T00:59:57Z",
+         "content": "Around one and a half million adults in the UK have a stammer. For some - it is obvious when they speak. For many others, it's something they manage to hide - sometimes from even those closest to the\u2026 [+285 chars]"
+      }
+   ]
+}
